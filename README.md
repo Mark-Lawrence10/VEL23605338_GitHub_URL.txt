@@ -16,8 +16,15 @@ These are some of the things it showed.
 
 
 ## Week 2
+The lab week 2 was little confusing for me, I have to search why when I execute tree lab_test it doesnt work.
+I found that I have to install "sudo apt install tree" and "sudo snap install tree" to be able to print the alpha,betta,gamma.
+When I did that it worked, however I found myself into another problem when I run the next steps it shows that "cannot create regular file : not a directory". I double checked everything and I found the mistake I must have put the "betta" instead of "beta"
+
 ![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-13%20(11).png?raw=true)
 ![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-13%20(14).png?raw=true)
+
+When I did the last exercise in lab 2 I just entered what is on the lab notes and this is what happened.
+
 ![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-13%20(15).png?raw=true)
 ![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-13%20(18).png?raw=true)
 
