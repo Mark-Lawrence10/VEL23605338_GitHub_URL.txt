@@ -16,13 +16,21 @@ These are some of the things it showed.
 
 
 ## Week 2
-![image alt]
-![image alt]
-![image alt]
+--- BEFORE ---
+![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/BEFORE.png?raw=true)
+![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/BEFORE%20(2).png?raw=true)
+![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/BEFORE%20(3).png?raw=true)
+
+I have done lab week 2 System information commands and these are what I got.
+
+--- AFTER ---
+![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/AFTER.png?raw=true)
+![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/AFTER%20(2).png?raw=true)
+![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/AFTER%20(3).png?raw=true)
 
 
 ## Week 3
-![image alt]
+![image alt]()
 ![image alt]
 ![image alt]
 
