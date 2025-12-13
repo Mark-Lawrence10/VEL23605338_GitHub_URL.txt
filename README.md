@@ -16,9 +16,10 @@ These are some of the things it showed.
 
 
 ## Week 2
-![image alt]()
-![image alt]
-![image alt]
+![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-13%20(11).png?raw=true)
+![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-13%20(15).png?raw=true)
+![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-13%20(14).png?raw=true)
+![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-13%20(18).png?raw=true)
 
 
 
