@@ -7,4 +7,4 @@ It is also a documentation of the steps of my courseworks and what I have done s
 # Weekly Journal
 
 ## Week 1 
- - 
+![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-13%20(7).png?raw=true)
