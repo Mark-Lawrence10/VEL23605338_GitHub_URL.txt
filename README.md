@@ -22,10 +22,9 @@ When I did that it worked, however I found myself into another problem when I ru
 
 ![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-13%20(11).png?raw=true)
 ![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-13%20(14).png?raw=true)
+![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-13%20(15).png?raw=true)
 
 When I did the last exercise in lab 2 I just entered what is on the lab notes and this is what happened.
-
-![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-13%20(15).png?raw=true)
 ![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-13%20(18).png?raw=true)
 
 
