@@ -32,7 +32,7 @@ The exercise Part 5 was creating a sys_report directory to store in system infor
 
 ## Week 3
 
-I have done lab week 4 System information commands and these are what I got. I screenshot the before and after, the before is when the system is on idle and the after is when I tried downloading something.
+I have done lab week 3 System information commands and these are what I got. I screenshot the before and after, the before is when the system is on idle and the after is when I tried downloading something.
 it shows a significant drop on ...
 
 Unfortunately, my laptop do not have the capacity to install 2 VM and compare each others. 
