@@ -52,9 +52,14 @@ I have install multiple times different VM and it keeps failling and does not op
 
 
 ## Week 4
-![image alt]
-![image alt]
-![image alt]
+
+This week was the test pratice and coursework release, I mainly try to understand the lab test and did the exercise.
+
+1. Create a System Architecture Diagram showing both system and network connections.
+   - To be honest I was confused and went to Youtube to understand this further. 
+
+![image alt]()
+![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-13%20(20).png?raw=true)
 
 ## Week 5
 ![image alt]
