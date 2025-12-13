@@ -1,5 +1,18 @@
 Downloaded Ubuntu
 
-Tried out Linux Commands and File commands. 
+Week 1: Initial VM Setup and CLI Exploration
 
-![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-13%20(7).png?raw=true)
+After installing Ubuntu on the virtual machine, I used the Linux terminal to explore the system and confirm that the environment was set up correctly.
+I created directories and files using commands such as mkdir, touch, and nano, and practiced copying and comparing files using cp, ls -R, and diff. 
+These tasks helped verify my understanding of Linux file system structure and basic file operations.
+
+I checked the operating system and kernel information using lsb_release and uname, confirming that the VM is running Ubuntu 24.04 LTS with a stable Linux kernel.
+System uptime and load averages were examined using uptime, and the system hostname and network-related information were verified using hostname and related commands.
+I also reviewed reboot history with last reboot to observe system restart records.
+
+To verify time and system configuration, I used date, timedatectl, and cal, confirming that the system clock is synchronized via NTP and configured to use the UTC time zone.
+Shutdown commands were tested using shutdown with scheduling and cancellation options, demonstrating controlled system power management.
+
+These activities confirmed that the Ubuntu virtual machine is fully operational and correctly configured. 
+The commands executed demonstrate foundational Linux administration skills, including file management, system information retrieval, time configuration, and basic system control. T
+his provides a solid baseline for future phases involving security configuration, performance testing, and server management.
