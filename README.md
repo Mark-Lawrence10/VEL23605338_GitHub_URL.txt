@@ -16,10 +16,19 @@ These are some of the things it showed.
 
 
 ## Week 2
+![image alt]()
+![image alt]
+![image alt]
 
-I have done lab week 2 System information commands and these are what I got. I screenshot the before and after, the before is when the system is on idle and the after is when I tried downloading something.
+
+
+## Week 3
+
+I have done lab week 4 System information commands and these are what I got. I screenshot the before and after, the before is when the system is on idle and the after is when I tried downloading something.
 it shows a significant drop on ...
 
+Unfortunately, my laptop do not have the capacity to install 2 VM and compare each others. 
+I have install multiple times different VM and it keeps failling and does not open aor work, the only VM that I fortunately install succesfully is UBUNTU.
 
 --- BEFORE ---
 
@@ -32,12 +41,6 @@ it shows a significant drop on ...
 ![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/AFTER.png?raw=true)
 ![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/AFTER%20(2).png?raw=true)
 ![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/AFTER%20(3).png?raw=true)
-
-
-## Week 3
-![image alt]()
-![image alt]
-![image alt]
 
 
 ## Week 4
