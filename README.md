@@ -25,6 +25,7 @@ When I did that it worked, however I found myself into another problem when I ru
 ![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-13%20(15).png?raw=true)
 
 When I did the last exercise in lab 2 I just entered what is on the lab notes and this is what happened.
+The exercise Part 5 was creating a sys_report directory to store in system information.
 ![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-13%20(18).png?raw=true)
 
 
