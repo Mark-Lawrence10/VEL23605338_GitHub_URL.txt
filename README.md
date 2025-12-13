@@ -13,3 +13,37 @@ It is also a documentation of the steps of my courseworks and what I have done s
 
 After downloading Ubuntu I tried the lab 1 notes to see what will show onto the VM.
 These are some of the things it showed.
+
+
+## Week 2
+![image alt]
+![image alt]
+![image alt]
+
+
+## Week 3
+![image alt]
+![image alt]
+![image alt]
+
+
+## Week 4
+![image alt]
+![image alt]
+![image alt]
+
+## Week 5
+![image alt]
+![image alt]
+![image alt]
+
+## Week 6
+![image alt]
+![image alt]
+![image alt]
+
+
+## Week 7 
+![image alt]
+![image alt]
+![image alt]
