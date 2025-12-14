@@ -1,0 +1,9 @@
+This is Performance comparisions of before and after.
+
+Before I download anything the system was idle. 
+CPU usage was low and most processing power is unused.
+Memory was stable and only little disk activity.
+
+During download the CPU activity increases, memory usage changed slightly.
+I search why is memory decreases and it shows that Linux used available RAM to download data.
+Disk activity also increases as it is downloading data.
