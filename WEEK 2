@@ -9,4 +9,7 @@ I accidentally created “betta” instead of “beta”.
 Since the folder name didn’t match, the system couldn’t copy the file into the correct directory. 
 Once I corrected the folder name, the copy command worked normally.
 
-
+In the last part of Lab 2, I created a folder called sys_report to store system information. 
+I used basic Linux commands to save details about the kernel, running processes, and memory usage into separate text files inside the folder. 
+After that, I compressed the folder into a single archive file using tar. 
+This task helped me get more comfortable using the command line to collect and organize system information.
