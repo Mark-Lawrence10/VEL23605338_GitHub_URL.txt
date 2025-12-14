@@ -1,1 +1,12 @@
+Week 2 was a little confusing for me at first. 
+When I tried to run tree lab_test, it didn’t work because the tree command wasn’t installed on my system. 
+I searched the error message and learned I had to install it first using sudo apt install tree (or sudo snap install tree). 
+After installing it, tree worked and I could see the folder structure for alpha, beta, and gamma.
+
+After that, I ran into another issue when copying my file.
+The terminal showed: “cannot create regular file … Not a directory.” I double-checked my steps and realized the problem was a typo.
+I accidentally created “betta” instead of “beta”.
+Since the folder name didn’t match, the system couldn’t copy the file into the correct directory. 
+Once I corrected the folder name, the copy command worked normally.
+
 
