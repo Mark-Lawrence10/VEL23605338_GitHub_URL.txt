@@ -61,10 +61,15 @@ This week was the test pratice and coursework release, I mainly try to understan
 ![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-13%20(20).png?raw=true)
 
 ## Week 5
+   # PIPES AND REDIRECTION
 ![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-14.png?raw=true)
 ![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-14%20(1).png?raw=true)
 ![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-14%20(2).png?raw=true)
 
+   # FIFO
+![image alt]
+![image alt]
+![image alt]
 
 ## Week 6
 ![image alt]
