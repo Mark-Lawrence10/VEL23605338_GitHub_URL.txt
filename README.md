@@ -67,17 +67,11 @@ This week was the test pratice and coursework release, I mainly try to understan
 ![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-14%20(2).png?raw=true)
 
    # FIFO
+![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-16.png?raw=true)
+![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-16%20(1).png?raw=true)
+
+## Week 7
 ![image alt]
 ![image alt]
 ![image alt]
 
-## Week 6
-![image alt]
-![image alt]
-![image alt]
-
-
-## Week 7 
-![image alt]
-![image alt]
-![image alt]
