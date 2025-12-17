@@ -1,1 +1,20 @@
+#Week 5
 
+  ## PIPES
+
+In this task, I practiced redirecting command output into files and using pipes to connect commands together.
+I used > to save output to a file, >> to append new content, and 2> to capture error messages.
+I also redirected both normal output and errors into a single file, which helped me understand how Linux handles different output streams.
+
+I used pipes to filter and process command output, such as searching for text files, counting running processes, and checking log files for failed events.
+I also experimented with more advanced pipelines to sort and display system processes.
+Some commands initially showed errors due to small syntax mistakes, which helped me better understand how pipelines and file paths work.
+
+  ## FIFO
+
+While working with named pipes, I created a FIFO using mkfifo and confirmed its type using ls -l.
+When I wrote data to the pipe using echo, the command appeared to hang because a named pipe blocks until a reading process is active. 
+Once a reader such as cat or tail -f was started, the data was immediately received.
+
+During the producer–consumer test, the terminal waited for loop completion due to incomplete shell syntax, not because of an error with the pipe itself.
+These behaviors demonstrated that FIFOs are used for real-time inter-process communication and do not store data like regular files.
