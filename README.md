@@ -57,7 +57,6 @@ This week was the test pratice and coursework release, I mainly try to understan
 1. Create a System Architecture Diagram showing both system and network connections.
    - To be honest I was confused and went to Youtube to understand this further. 
 
-![image alt]()
 ![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-13%20(20).png?raw=true)
 
 ## Week 5
