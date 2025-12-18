@@ -1,1 +1,78 @@
+#Week 7
 
+  TASK 1:1
+
+I used the ps aux command to see all the processes running on my Linux system.
+This showed which user started each process, the process ID (PID), how much CPU and memory each process was using, its current state, and the command that started it.
+Most system and kernel processes were owned by the root user, while normal user processes were owned by my account.
+I then used ps -ef to view the same processes in a different format.
+This version made it easier to see parent and child processes by showing the parent process ID (PPID).
+To monitor the system in real time, I used the top command.
+This allowed me to watch CPU and memory usage update live while the system was running.
+I also tried htop, which provides a clearer and more user-friendly view of system activity.
+
+  # Process States
+
+R (Running): The process is currently running or ready to run
+
+S (Sleeping): The process is waiting for something to happen
+
+D (Uninterruptible sleep): The process is waiting for input/output operations
+
+Z (Zombie): The process has finished but has not been fully removed
+
+T (Stopped): The process has been paused or suspended
+
+
+  TASK 1:2
+
+I used pstree to see how processes are organised on the system and how most of them start from systemd.
+I then practiced running commands in the background using sleep 300 & and checked their status with jobs.
+To understand process control, I ran a command in the foreground and paused it using Ctrl+Z.
+I used bg to continue it in the background and fg to bring it back to the foreground.
+I also stopped multiple running processes using killall, which showed how processes can be ended quickly.
+I tested process priority using nice -n 10 and confirmed in top that the process was running with a lower priority.
+This helped me understand how Linux manages CPU time between processes.
+Foreground processes are useful when interaction is needed, while background processes are better for long-running tasks.
+The kill command stops a process normally, while kill -9 forces it to stop and should only be used if necessary.
+
+  TASK 2:1
+
+I generated an SSH key pair on my workstation using the ssh-keygen command with the ed25519 algorithm.
+I accepted the default file location and set a secure passphrase. After the key was created, I viewed the public key using cat ~/.ssh/id_ed25519.pub.
+This key will be used for secure, passwordless SSH authentication.
+
+When I first attempted to generate an SSH key, the command failed due to a small syntax error.
+I typed ssh -keygen instead of ssh-keygen, which caused the terminal to return an error because the command was not recognised.
+As a result, the SSH key files were not created.
+I then tried to view the public key using cat ~/.ssh/id_ed25519.pub, but this file did not exist yet because the key generation step had not completed successfully.
+To fix this, I reran the command using the correct syntax, accepted the default file location, and set a secure passphrase.
+Once the key pair was generated, I was able to successfully view the public key using the correct file path.
+
+  TASK 2:2
+
+I missed this task and seen when it is too late
+
+  TASK 2:3
+
+When backing up the SSH configuration file, I made a small typing error in the destination filename.
+I used sshd_cinfig.backup instead of sshd_config.backup.
+Although the command still created a backup file, the filename was incorrect, which could cause confusion later when restoring the configuration.
+
+  TASK 3:1
+
+This task confused me, I did not understand why it does not work, I kept trying but did not figure it out.
+
+  TASK 3:2
+
+I created a new non-root user called adminuser using the adduser command.
+During setup, the system rejected weak passwords, showing how Linux enforces password security.
+After setting a strong password, the user was created successfully with its own home directory.
+I added the user to the sudo group to allow administrative access when required and verified this using group and ID checks.
+This approach follows the principle of least privilege by avoiding direct use of the root account.
+
+  TASK 3:3
+
+When I attempted to run administrative commands remotely using SSH, the connection failed because I used server_ip as the hostname.
+This value was only a placeholder and not an actual IP address, so SSH could not resolve it and returned an error.
+To be honest, I did not know how to do this as the deadline is near I did not have time to figure it out.
