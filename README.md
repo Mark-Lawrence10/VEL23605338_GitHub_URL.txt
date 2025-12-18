@@ -69,25 +69,41 @@ This week was the test pratice and coursework release, I mainly try to understan
 ![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-16%20(1).png?raw=true)
 
 ## Week 7
+   
    TASK 1:1
+   
 ![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/main/IMAGES/2025-12-17.png?raw=true)
 ![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/83975d2d2b9f2069fba861ba381996f97774e7d8/IMAGES/2025-12-17%20(1).png?raw=true)
+
    TASK 1:2
+   
 ![image alt](https://github.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/blob/83975d2d2b9f2069fba861ba381996f97774e7d8/IMAGES/2025-12-17%20(4).png?raw=true)
 ![image alt](https://raw.githubusercontent.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/83975d2d2b9f2069fba861ba381996f97774e7d8/IMAGES/2025-12-17%20(7).png)
 ![image alt](https://raw.githubusercontent.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/83975d2d2b9f2069fba861ba381996f97774e7d8/IMAGES/2025-12-17%20(9).png)
+  
    TASK 2:1
+   
 ![image alt](https://raw.githubusercontent.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/83975d2d2b9f2069fba861ba381996f97774e7d8/IMAGES/2025-12-17%20(10).png)
+  
    TASK 2:2
+   
 ![image alt]()
+  
    TASK 2:3
+   
 ![image alt](https://raw.githubusercontent.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/83975d2d2b9f2069fba861ba381996f97774e7d8/IMAGES/2025-12-17%20(12).png)
+   
    TASK 3:1
+   
 ![image alt](https://raw.githubusercontent.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/83975d2d2b9f2069fba861ba381996f97774e7d8/IMAGES/2025-12-17%20(15).png)
 ![image alt](https://raw.githubusercontent.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/83975d2d2b9f2069fba861ba381996f97774e7d8/IMAGES/2025-12-17%20(16).png)
+  
    TASK 3:2
+   
 ![image alt](https://raw.githubusercontent.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/83975d2d2b9f2069fba861ba381996f97774e7d8/IMAGES/2025-12-17%20(17).png)
+   
    TASK 3:3
+   
 ![image alt](https://raw.githubusercontent.com/Mark-Lawrence10/VEL23605338_GitHub_URL.txt/83975d2d2b9f2069fba861ba381996f97774e7d8/IMAGES/2025-12-17%20(21).png)
 
 
